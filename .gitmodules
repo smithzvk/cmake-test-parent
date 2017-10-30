@@ -1,0 +1,3 @@
+[submodule "cmake-test-middle"]
+	path = cmake-test-middle
+	url = https://github.com/smithzvk/cmake-test-middle
